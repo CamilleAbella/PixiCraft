@@ -1,13 +1,11 @@
 {
-	"compilerOptions": {
-		"outDir": "./dist/",
-		"target": "ES2020",
-		"sourceMap": true,
-		"module": "esnext",
-		"noImplicitAny": false,
-		"moduleResolution": "Node"
-	},
-	"include": [
-		"src/**/*"
-	]
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "target": "ES2020",
+    "sourceMap": true,
+    "module": "esnext",
+    "noImplicitAny": false,
+    "moduleResolution": "Node"
+  },
+  "include": ["src/**/*"]
 }
